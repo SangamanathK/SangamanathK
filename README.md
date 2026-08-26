@@ -8,26 +8,34 @@
   </a>
 </p>
 
-I'm an aspiring **Full Stack Java Developer** and **B.E. Computer Science graduate (2026)** with hands-on experience building database-driven, full-stack applications using Java and Spring technologies.
+I'm a **Java Developer** and **B.E. Computer Science graduate (2026)** passionate about building scalable, database-driven web applications.
 
-💼 Software Development Intern at **KodNest Technologies**<br>
-🔭 Building full-stack applications using **Java & Spring Boot**<br>
-🌱 Deepening my expertise in **Spring Boot & Hibernate**<br>
-💻 Experienced with **Spring MVC, Spring Data JPA, JSP, Servlets & REST APIs**<br>
-🗄️ Experienced with **MySQL, Oracle Database & JDBC**<br>
-🚀 Built multiple full-stack applications using **MVC and layered architecture**<br>
-🎯 Seeking an **entry-level Java Developer / Software Engineer** opportunity<br>
-⚡ I enjoy solving coding problems and continuously learning new technologies
+💼 Software Development Intern at **KodNest Technologies**  
+💻 Building applications with **Java, Spring Boot, Spring MVC & Hibernate**  
+🗄️ Working with **MySQL, Oracle Database & JPA**  
+🌐 Developing **REST APIs and full-stack web applications**  
+🚀 Experienced with **MVC and layered architecture**  
+📚 Continuously improving my **Java, Spring Boot & problem-solving skills**  
+🎯 Open to **entry-level Java Developer / Software Engineer opportunities**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangamanath-kambar01)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SangamanathK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sangukambar0@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smiley_prince_sangu)
-
+<p align="center">
+  <a href="https://linkedin.com/in/sangamanath-kambar01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SangamanathK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:sangukambar0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/smiley_prince_sangu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
