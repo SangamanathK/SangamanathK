@@ -44,32 +44,9 @@ I'm an aspiring Full Stack Java Developer and B.E. Computer Science graduate (20
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=SangamanathK&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SangamanathK&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SangamanathK&theme=vue-dark&hide_border=false" />
-
-</p>
-
-<p align="center">
-
-
-
-
-</p>
-
-<p align="center">
-
-💻 Code • Learn • Build • Grow 🚀
-
-</p>
+![](https://github-readme-stats.shion.dev/api?username=SangamanathK&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SangamanathK&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SangamanathK&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=SangamanathK&icon=0&color=0)](https://visitcount.itsvg.in)
