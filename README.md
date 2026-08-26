@@ -65,3 +65,18 @@ I'm an aspiring **Full Stack Java Developer** and **B.E. Computer Science gradua
 [![](https://komarev.com/ghpvc/?username=SangamanathK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/SangamanathK/SangamanathK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/SangamanathK/SangamanathK/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/SangamanathK/SangamanathK/output/github-contribution-grid-snake.svg"
+         alt="GitHub Contribution Snake">
+  </picture>
+</p>
