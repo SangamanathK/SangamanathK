@@ -1,16 +1,25 @@
-👋 Hi, I'm Sangamanath Kambar
-💻 Full Stack Java Developer | Java Developer | Software Engineer Trainee
+# 👋 Hi, I'm Sangamanath Kambar
 
-I'm an aspiring Full Stack Java Developer and B.E. Computer Science graduate (2026) with hands-on experience building database-driven, full-stack applications using Java and Spring technologies.
+### 💻 Full Stack Java Developer | Java Developer | Software Engineer Trainee
 
-💼 Software Development Intern at KodNest Technologies
-🔭 Building full-stack applications using Java & Spring Boot
-🌱 Deepening my expertise in Spring Boot & Hibernate
-💻 Experienced with Spring MVC, Spring Data JPA, JSP, Servlets & REST APIs
-🗄️ Experienced with MySQL, Oracle Database & JDBC
-🚀 Built multiple full-stack applications using MVC and layered architecture
-🎯 Seeking an entry-level Java Developer / Software Engineer opportunity
+I'm an aspiring **Full Stack Java Developer** and **B.E. Computer Science graduate (2026)** with hands-on experience building database-driven, full-stack applications using Java and Spring technologies.
+
+💼 Software Development Intern at **KodNest Technologies**<br>
+🔭 Building full-stack applications using **Java & Spring Boot**<br>
+🌱 Deepening my expertise in **Spring Boot & Hibernate**<br>
+💻 Experienced with **Spring MVC, Spring Data JPA, JSP, Servlets & REST APIs**<br>
+🗄️ Experienced with **MySQL, Oracle Database & JDBC**<br>
+🚀 Built multiple full-stack applications using **MVC and layered architecture**<br>
+🎯 Seeking an **entry-level Java Developer / Software Engineer** opportunity<br>
 ⚡ I enjoy solving coding problems and continuously learning new technologies
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangamanath-kambar01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SangamanathK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sangukambar0@gmail.com)
 
 
 ## 🌐 Socials:
