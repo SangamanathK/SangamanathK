@@ -92,8 +92,7 @@ I'm a **Java Developer** and **B.E. Computer Science graduate (2026)** passionat
 
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=SangamanathK&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
