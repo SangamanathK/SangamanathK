@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Sangamanath Kambar
+<h1 align="center">Hi 👋, I'm Sangamanath Kambar</h1>
 
-### 💻 Full Stack Java Developer | Java Developer | Software Engineer Trainee
+<h3 align="center">Java Developer | Full Stack Java Developer | Software Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/SangamanathK">
+    <img src="https://komarev.com/ghpvc/?username=SangamanathK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+</p>
 
 I'm an aspiring **Full Stack Java Developer** and **B.E. Computer Science graduate (2026)** with hands-on experience building database-driven, full-stack applications using Java and Spring technologies.
 
