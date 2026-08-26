@@ -47,8 +47,6 @@ I'm a **Java Developer** and **B.E. Computer Science graduate (2026)** passionat
 ### 🌱 Backend & Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat&logo=java&logoColor=white)
